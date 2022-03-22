@@ -1,0 +1,309 @@
+  * {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+  }
+  div.caixa-logo {
+    width: 697px;
+    height: 49px;
+    background: white;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.25);
+  }
+
+  .logo-lovt {
+  width: 63px;
+  height: 25px;
+  font-family: 'Ropa Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 50px;
+  margin-left: 44px;
+
+color: #777777;
+  }
+
+  .logo-you {
+width: 38px;
+height: 22px;
+font-family: 'Ropa Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 13px;
+display: inline-block;
+
+color: #AAAAAA;
+  }
+
+.banner1 {
+  background-image: url("/img/banner1.png");
+  width: 608px;
+  height: 259px;
+  margin: 20px;
+  margin-left: 44px;
+  margin-right: 45px;
+}
+
+
+.retangulos {
+  width: 256px;
+  height: 242px;
+  margin-left: 44px;
+  background: #EEEEEE;
+  display: flex;
+  flex-direction: row;
+
+  }
+
+.dois {
+  width: 256px;
+  height: 242px;
+  margin-left: 353px;
+  background: #EEEEEE;
+  position: absolute;
+}
+.banner-ret {
+  background-image: url("/img/banner2.png");
+  width: 256px;
+  height: 144px;
+  position: absolute;
+}
+
+.banner-ret2 {
+  background-image: url("/img/banner3.png");
+  width: 256px;
+  height: 144px;
+  position: absolute;
+}
+
+
+  h1 {
+width: 86px;
+height: 33px;
+font-family: 'Ropa Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 27px;
+color: #888888;
+margin-left: 10px;
+position: absolute;
+}
+
+.retangulos-h1 {
+  margin-top: 160px;
+  position: absolute;
+}
+
+.retangulos-h2 {
+  margin-top: 160px;
+  margin-left: 350px;
+  position: absolute;
+}
+
+h2 {
+width: 231px;
+height: 44px;
+font-family: 'Ropa Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 11px;
+text-align: justify;
+margin-left: 10px;
+margin-top: 10px;
+color: #555555;
+}
+
+h3 {
+width: 266px;
+height: 33px;
+font-family: 'Ropa Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 27px;
+display: flex;
+align-items: center;
+ margin-left: 300px;
+margin-top: 45px;
+color: #888888;
+  }
+
+h4 {
+width: 208px;
+height: 44px;
+font-family: 'Ropa Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 27px;
+  display: flex;
+  color: #FFFFFF;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
+  justify-content: center;
+  margin-left: 202px;
+  margin-top: 27px;
+  }
+
+.sale {
+  width: 56px;
+  height: 21px;
+  background: #DC9730;
+  border-radius: 10.5px;
+  margin-top: 160px;
+  margin-left: 545px;
+  position: absolute;
+}
+
+.sale1 {
+  width: 56px;
+  height: 21px;
+  background: #51D275;
+  border-radius: 10.5px;
+  display: flex;
+  justify-content: center;
+  margin-top: 160px;
+  margin-left: 190px;
+  position: absolute;
+}
+.sale h7 {
+  width: 48px;
+  height: 19px;
+  margin-left: 12px;
+  margin-top: 1px;
+  font-family: 'Ropa Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.sale1 h8 {
+  width: 48px;
+  height: 19px;
+  margin-left: 12px;
+  margin-top: 1px;
+  font-family: 'Ropa Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.box-1 {
+  position: relative;
+  margin-left: -258px;
+  margin-top: 150px;
+}
+
+.box-2 {
+  position: relative;
+  margin-left: -97px;
+  margin-top: 180px;
+}
+
+.box-container2 {
+  margin-top: 15px;
+  margin-left: 44px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.box {
+  width: 608px;
+  height: 80px;
+  margin: 10px 5px;
+  text-align: center;
+}
+
+.box-3 {
+  width: 608px;
+  height: 80px;
+  background-image: url("/img/banner4.png");
+  opacity: 50%;
+}
+
+.box-4 {
+  width: 608px;
+  height: 80px;
+  background-image: url("/img/banner5.png");
+  opacity: 50%;
+}
+
+.box-5 {
+  width: 608px;
+  height: 80px;
+  background-image: url("/img/banner6.png");
+  opacity: 50%;
+}
+
+.footer {
+  width: 697px;
+  height: 243px;
+  background: #333333;
+  margin-top: 44px;
+
+}
+
+.mapa {
+  background-image: url("/img/image1.png");
+  width: 252px;
+  height: 163px;
+  margin-left: 38px;
+  margin-top: 45px;
+  position: absolute;
+}
+
+.text h5 {
+  width: 175px;
+  height: 95px;
+  font-family: 'Ropa Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 13px;
+  text-align: left;
+  color: #FFFFFF;
+  margin-left: 500px;
+  position: absolute;
+  margin-top: 45px;
+}
+
+.icons {
+  font-size: 50px;
+  margin: 10px 20px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  flex-direction: row;
+  margin-top: -20px;
+}
+
+.icon-1 {
+  background-image: url("/img/fac.png");
+  margin-left: 480px;
+  position: absolute;
+}
+
+.icon-2 {
+  background-image: url("/img/inst.png");
+  position: absolute;
+  margin-left: 520px;
+}
+
+.icon-3 {
+  background-image: url("/img/whats.png");
+  position: absolute;
+  margin-left: 560px;
+}
