@@ -1,0 +1,263 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+input {
+    display: flex;
+    width: 538px;
+height: 26px;
+left: 123px;
+top: 294px;
+background: #FFFFFF;
+border: 1px solid #9B9B9B;
+box-sizing: border-box;
+
+}
+
+li, a {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    color: #777777;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 5%;
+    width: 1280px;
+    height: 122px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 20px rgba(139, 139, 139, 0.65);
+}
+
+.logo {
+    cursor: pointer;
+    margin-left: -7%;
+}
+
+.nav-links {
+    list-style: none;
+    margin-right: -50px;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 0px 10px;
+}
+
+.nav-links li a {
+    text-decoration: none;
+}
+
+h1
+{   
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    color: #777777;
+}
+
+.pai {
+    width: 585px;
+    height: 55px;
+    margin-left: 123px;
+    top: 177px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 39px;
+    line-height: 53px;
+    color: #575757;
+}
+
+.form {
+    display: flex;
+    position: absolute;
+    
+}
+
+.form1 {
+    width: 66.4px;
+    height: 21px;
+    margin-left: -410px;
+    top: 268px;
+    font-family: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #9B9B9B;
+    
+}
+.div-check {
+    display: flex;
+    width: 538px;
+    height: 10px;
+    left: 141px;
+    top: 563px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #777777;
+}
+
+.div-radio {
+    display: flex;
+    width: 538px;
+    height: 21px;
+    left: 123px;
+    top: 594px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #9B9B9B;
+}
+
+label {
+    display: flex;
+    width: 538px;
+}
+
+.div-button {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #9B9B9B;
+    height: 20px;
+    margin-left: 0px;
+}
+
+.button2 {
+    margin-left: 20px;
+}
+
+.button1 {
+    width: 537px;
+    height: 33px;
+    left: 123px;
+    top: 824px;
+
+background: #C2185B;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px 5%;
+    width: 1280px;
+    height: 248px;
+    margin-top: 834px;
+    background: #C2185B;
+}
+
+
+.logo-footer {
+    margin-left: -3%;
+    cursor: pointer;
+    
+}
+
+.nav-links-footer {
+    margin-top: 8%;
+    list-style: none;
+    margin-right: 50px;
+    
+}
+
+.nav-links-footer-2 {
+    margin-top: 8%;
+    list-style: none;
+    margin-right: 50px;
+    
+}
+
+.nav-links-footer li {
+    margin-top: -4%;
+}
+
+.nav-links-footer li a {
+    text-decoration: none;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.nav-links-footer h1 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700 bold;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+.nav-links-footer-2 li {
+    margin-top: -4%;
+}
+
+.nav-links-footer-2 li a {
+    text-decoration: none;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.nav-links-footer-2 h1 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700 bold;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+h4 {
+    width: 464px;
+    height: 448px;
+    margin-left: 536px;
+    margin-top: 77px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #575757;
+    position: absolute;
+}
+
+h3 {
+    width: 255px;
+    height: 91px;
+    display: flex;
+    margin-top: 100px;
+    margin-left: -475px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
